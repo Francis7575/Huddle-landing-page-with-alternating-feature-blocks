@@ -544,6 +544,9 @@ footer {
   .footer_wrap {
     padding: 9rem 4.87rem 0 7.5rem;
   }
+  .footer_wrap .footer_logo {
+    max-width: 9.5rem !important;
+  }
   .wrap_columns {
     gap: 10.31rem;
   }
