@@ -208,7 +208,7 @@
   margin-bottom: 1.5rem;
   line-height: 1.87rem;
 }
-.absolute_container #getBtn {
+.absolute_container a {
   text-align: center;
   color: #fff;
   font-family: "Open Sans", sans-serif;
@@ -221,7 +221,7 @@
   filter: drop-shadow(0px 3px 7px rgba(0, 37, 46, 0.22));
   text-decoration: none;
 }
-.absolute_container #getBtn:hover {
+.absolute_container a:hover {
   background-color: #FF9ADB;
 }
 
@@ -447,7 +447,7 @@ footer {
     font-size: 1.5rem;
     padding: 0;
   }
-  .absolute_container #getBtn {
+  .absolute_container a {
     font-size: 0.8rem;
     padding: 1rem 4rem;
   }
@@ -537,7 +537,7 @@ footer {
     font-size: 2rem;
     line-height: 3.75rem;
   }
-  .absolute_container #getBtn {
+  .absolute_container a {
     font-size: 1.25rem;
     padding: 1.8rem 6.25rem;
   }
